@@ -1,5 +1,5 @@
 # ollama-intro
-
+> pip install ollama <
 
 
 
